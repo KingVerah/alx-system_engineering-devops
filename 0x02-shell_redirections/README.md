@@ -1,4 +1,4 @@
-# 0x00. Shell, I/O Redirections and filters
+# 0x02. Shell, I/O Redirections and filters
 
 ## Learning Objectives:bulb:
 
